@@ -1,0 +1,21 @@
+.login {
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: black;
+  color: whitesmoke;
+}
+.login img {
+  margin-top: 20px;
+}
+.login h1 {
+  margin-bottom: 70px;
+}
+.login a {
+  padding: 20px;
+  border-radius: 99px;
+  background-color: #1db954;
+  font-weight: 800;
+  color: white;
+  text-decoration: none;
+}
